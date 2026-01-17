@@ -16,7 +16,7 @@
 
 ## 🛠 Tech Stack
 * **Frontend:** HTML5, CSS3 With Bootstrap framework, free and open-source CSS framework directed at responsive, mobile-first front-end web development
-* **Backend:** Golang With Echo HTTP Framework, high-performance web framework for building robust and scalable applications in Go
+* **Backend:** Golang 1.25.3 ver
 * **Database:** MySQL, open source relational database management system (RDBMS) that’s used to store and manage data. Its reliability, performance, scalability, and manipulate structured data
 
 ## 📸 System Preview
